@@ -1,4 +1,4 @@
 # JS-PRACTICE-
 Javascript Practice Problems 
 
-Simple Practice Javascript Problems I do in mu spare time
+simple practice javascript problems I do in my spare time
