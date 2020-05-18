@@ -8,7 +8,6 @@
 - a list of car brands
 - a person object, with a first & last name and age
 */
-
 console.log('Hello World!');
 console.log('77777');
 console.log(3 + 4);
