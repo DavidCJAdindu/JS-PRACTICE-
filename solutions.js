@@ -9,5 +9,3 @@
 - a person object, with a first & last name and age
 */
 
-// Hello World
-// Hello World
